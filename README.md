@@ -15,10 +15,17 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/HerBlueberry.png" alt="TryHackMe">
 
 ## GitHub Stats
-![Negin's GitHub stats](https://github-readme-stats.vercel.app/api?username=negin-shahani&show_icons=true&theme=cobalt)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=negin-shahani&theme=cobalt&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negin-shahani&layout=compact&hide=php&langs_count=8&theme=cobalt)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=negin-shahani&show_icons=true&theme=cobalt" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=negin-shahani&theme=cobalt&hide_border=false" />
+</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negin-shahani&layout=compact&hide=php&langs_count=8&theme=cobalt" />
+
+
   
 ### Watch a snake🐍 eating my contribution graph
 ![snake gif](https://github.com/negin-shahani/negin-shahani/blob/output/github-contribution-grid-snake.svg)
@@ -40,7 +47,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![Negin's GitHub stats](https://github-readme-stats.vercel.app/api?username=negin-shahani&show_icons=true&theme=cobalt)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=negin-shahani&theme=cobalt&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negin-shahani&layout=compact&hide=php&langs_count=8&theme=cobalt)
 Quick Tip (Align The Repo Cards)
 You usually won't be able to layout the images side by side. To do that you can use this approach:
 <a href="https://github.com/anuraghazra/github-readme-stats">
