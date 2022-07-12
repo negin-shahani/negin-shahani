@@ -1,4 +1,4 @@
-## Hi everyone👋, I'm _Negin Banay Shahanyi_ AKA the _HerBlueberry_ ✨
+## Hi everyone👋, I'm _Negin Banay Shahani_ AKA the _HerBlueberry_ ✨
 
 - 🔭 I’m currently working on ...
     - This readme profile <a href="https://github.com/negin-shahani/negin-shahani" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/github.png" title = "Github" alt="" height="25" /></a>
