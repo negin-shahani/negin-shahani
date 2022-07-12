@@ -17,10 +17,10 @@
 ## GitHub Stats
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=negin-shahani&show_icons=true&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=negin-shahani&show_icons=true&theme=cobalt" width=500/>
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=negin-shahani&theme=cobalt&hide_border=false" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=negin-shahani&theme=cobalt&hide_border=false" width=500/>
 </a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negin-shahani&layout=compact&hide=php&langs_count=8&theme=cobalt" />
