@@ -1,6 +1,9 @@
 ## Hi everyone👋, I'm _Negin Banay Shahani_ AKA the _HerBlueberry_ ✨
 
 - 🔭 I’m currently working on ...
+    - [Tic Tac Toe Online Game using React and Web Socket](https://github.com/negin-shahani/Tic-Tac-Toe-React) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/React.png" title = "React" alt="" height="25" /></a> <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/socket-io.svg" title = "Socket.io" alt="" height="25" /></a>
+
+
     - This readme profile <a href="https://github.com/negin-shahani/negin-shahani" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/github.png" title = "Github" alt="" height="25" /></a>
     - [Linux Fundamentals on Try Hack Me](https://tryhackme.com/module/linux-fundamentals) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/tryhackme_logo_full.svg" title = "HackerRank" alt="" height="25" /></a>
     - [Introduction to Cyber Security on Try Hack Me](https://tryhackme.com/module/linux-fundamentals) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/tryhackme_logo_full.svg" title = "HackerRank" alt="" height="25" /></a>
@@ -56,4 +59,4 @@ You usually won't be able to layout the images side by side. To do that you can 
 
 
 
->Last edited on 12/Jul/2022
+>Last edited on 13/Jul/2022
