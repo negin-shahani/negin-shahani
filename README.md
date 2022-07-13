@@ -1,4 +1,4 @@
-## Hi everyone👋, I'm _Negin Banay Shahanyi_ AKA the _HerBlueberry_ ✨
+## Hi everyone👋, I'm _Negin Banay Shahani_ AKA the _HerBlueberry_ ✨
 
 - 🔭 I’m currently working on ...
     - This readme profile <a href="https://github.com/negin-shahani/negin-shahani" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/github.png" title = "Github" alt="" height="25" /></a>
@@ -12,9 +12,19 @@
     - Ethical Hacking <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/hacker.png" title = "Ethical hacking" alt="" height="30" /></a>
    
    
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/HerBlueberry.png" alt="TryHackMe">
-    
+
+## GitHub Stats
+
+![Negin's GitHub stats](https://github-readme-stats.vercel.app/api?username=negin-shahani&show_icons=true&theme=cobalt&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=negin-shahani&theme=cobalt&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negin-shahani&layout=compact&hide=php&langs_count=8&theme=cobalt)
+
+  
+### Watch a snake🐍 eating my contribution graph
+![snake gif](https://github.com/negin-shahani/negin-shahani/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--    
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -33,4 +43,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Quick Tip (Align The Repo Cards)
+You usually won't be able to layout the images side by side. To do that you can use this approach:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 -->
+
+
+
+>Last edited on 12/Jul/2022
