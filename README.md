@@ -17,7 +17,7 @@
 - 🤔 I’m looking for help with ...
     - Ethical hacking <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/hacker.png" title = "Ethical hacking" alt="" height="30" /></a>
     
-![tryhackme stats](https://raw.githubusercontent.com/<HerBlueberry>/<HerBlueberry>/main/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/<negin-shahani>/<negin-shahani>/main/assets/thm_propic.png)
 
 ## GitHub Stats
 
