@@ -25,7 +25,7 @@
 
 ![Negin's GitHub stats](https://github-readme-stats.vercel.app/api?username=negin-shahani&show_icons=true&theme=cobalt&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=negin-shahani&theme=cobalt&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negin-shahani&layout=compact&hide=php&langs_count=8&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negin-shahani&layout=compact&langs_count=8&theme=cobalt)
 
   
 ### Watch a snake🐍 eating my contribution graph
