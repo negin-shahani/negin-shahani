@@ -1,9 +1,8 @@
 ## Hi everyone👋, I'm _Negin Banay Shahani_ AKA the _HerBlueberry_ ✨
 
 - 🔭 I’m currently working on ...
-    - [PHP-Projects in order to master PHP and enhance my resume](https://github.com/negin-shahani/PHP-Projects)
+    - [PHP-Projects in order to master PHP and enhance my resume](https://github.com/negin-shahani/PHP-Projects) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/PHP-logo.svg.png" title = "PHP" alt="" height="25" /></a>
     - [Tic Tac Toe Online Game using React and Web Socket](https://github.com/negin-shahani/Tic-Tac-Toe-React) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/React.png" title = "React" alt="" height="25" /></a> <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/socket-io.svg" title = "Socket.io" alt="" height="25" /></a>
-
 
     - This readme profile <a href="https://github.com/negin-shahani/negin-shahani" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/github.png" title = "Github" alt="" height="25" /></a>
     - [Windows Fundamentals on Try Hack Me](https://tryhackme.com/module/windows-fundamentals) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/tryhackme_logo_full.svg" title = "Tryhackme" alt="" height="25" /></a>
