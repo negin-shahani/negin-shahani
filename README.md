@@ -10,7 +10,7 @@
     - [30 Days of Code Challenge on HackerRank](https://github.com/negin-shahani/30DaysOfCode-HackerRank-JS) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/HackerRank.png" title = "HackerRank" alt="" height="25" /></a>
     
 - 🌱 I’m currently learning ...
-    - Laravel  <a href="https://laravel.com/" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/laravel-2.svg" title = "Laravel" alt="" height="25" /></a>
+    - Laravel  <a href="https://laravel.com/" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/laravel-2.svg" title = "Laravel" alt="" height="25" /></a> + PHP  <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/PHP-logo.svg.png" title = "PHP" alt="" height="25" /></a>
     - JavaScript  <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/js.png" title = "JavaScript" alt="" height="20" /></a> (Basically, trying to master it)
     - Ethical Hacking  <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/hacker.png" title = "Ethical hacking" alt="" height="30" /></a>
 
@@ -61,4 +61,4 @@ You usually won't be able to layout the images side by side. To do that you can 
 
 
 
->Last edited on 26/Jul/2022
+>Last edited on 30/Jul/2022
