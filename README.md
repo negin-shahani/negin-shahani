@@ -20,7 +20,7 @@
 - 🤔 I’m looking for help with ...
     - Ethical hacking <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/hacker.png" title = "Ethical hacking" alt="" height="30" /></a>
 
-- 🎈 I'm applying for a master's degree. I am open to any TA or RA position. Wish me luck! <3
+- 🎈 Master's student at MUN university, Canada (Fall 2023). 
  
 ![tryhackme stats](https://raw.githubusercontent.com/negin-shahani/negin-shahani/master/assets/thm_propic.png)
 
@@ -67,4 +67,4 @@ You usually won't be able to layout the images side by side. To do that you can 
 
 
 
->Last edited on 13/Jan/2023
+>Last edited on 14/Jan/2023
