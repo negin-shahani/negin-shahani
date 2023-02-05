@@ -1,15 +1,14 @@
 ## Hi everyone👋, I'm _Negin Banay Shahani_ AKA the _HerBlueberry_ ✨
 
 - 🔭 I’m currently working on ...
-    - [SheCodes Academy Workshop](https://www.shecodes.io/)
-    - [E-commerce-Project](https://github.com/negin-shahani/E-commerce-Project) Using <a href="https://laravel.com/" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/laravel-2.svg" title = "Laravel" alt="" height="25" /></a>
-    - [PHP-Projects](https://github.com/negin-shahani/PHP-Projects) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/PHP-logo.svg.png" title = "PHP" alt="" height="25" /></a> in order to master PHP and enhance my resume
-    
+    - [SheCodes Academy Workshop](https://www.shecodes.io/) -> To hone My Web Development Skills 
     - [Try Hack Me cybersecurity rooms](https://tryhackme.com/module/linux-fundamentals)-> Right now In the top 7% <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/tryhackme_logo_full.svg" title = "tryhackme" alt="" height="30" /></a>  
+    - [E-commerce-Project](https://github.com/negin-shahani/E-commerce-Project) Using <a href="https://laravel.com/" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/laravel-2.svg" title = "Laravel" alt="" height="25" /></a>
     - [SQL Challenge on HackerRank](https://www.hackerrank.com/domains/sql) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/HackerRank.png" title = "HackerRank" alt="" height="25" /></a>
     - [30 Days of Code Challenge on HackerRank](https://github.com/negin-shahani/30DaysOfCode-HackerRank-JS) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/HackerRank.png" title = "HackerRank" alt="" height="25" /></a>
     
-    - This readme profile <a href="https://github.com/negin-shahani/negin-shahani" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/github.png" title = "Github" alt="" height="25" /></a>
+    - [This readme profile]() <a href="https://github.com/negin-shahani/negin-shahani" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/github.png" title = "Github" alt="" height="25" /></a>
+    - [My Master's degree Proposal Idea 🤔]()
     
     
 - 🌱 I’m currently learning ...
@@ -55,6 +54,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[PHP-Projects](https://github.com/negin-shahani/PHP-Projects) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/PHP-logo.svg.png" title = "PHP" alt="" height="25" /></a> in order to master PHP and enhance my resume
+
 Quick Tip (Align The Repo Cards)
 You usually won't be able to layout the images side by side. To do that you can use this approach:
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -67,4 +68,4 @@ You usually won't be able to layout the images side by side. To do that you can 
 
 
 
->Last edited on 14/Jan/2023
+>Last edited on 5/Feb/2023
