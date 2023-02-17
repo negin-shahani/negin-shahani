@@ -5,7 +5,6 @@
     - [Try Hack Me cybersecurity rooms](https://tryhackme.com/module/linux-fundamentals)-> Right now In the top 7% with 92 Days Streak  <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/tryhackme_logo_full.svg" title = "tryhackme" alt="" height="30" /></a>  
     - [E-commerce-Project](https://github.com/negin-shahani/E-commerce-Project) Using <a href="https://laravel.com/" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/laravel-2.svg" title = "Laravel" alt="" height="25" /></a>
     - [SQL Challenge on HackerRank](https://www.hackerrank.com/domains/sql) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/HackerRank.png" title = "HackerRank" alt="" height="25" /></a>
-    - [30 Days of Code Challenge on HackerRank](https://github.com/negin-shahani/30DaysOfCode-HackerRank-JS) <a href="#" target="blank"><img align="center" src="https://github.com/negin-shahani/negin-shahani/blob/main/Tech%20icons/HackerRank.png" title = "HackerRank" alt="" height="25" /></a>
     - [My Master's degree Proposal Idea 🤔]()
     
     
