@@ -1,4 +1,4 @@
-## Hi everyone👋, I'm _Negin Banay Shahani_ AKA the _HerBlueberry_ ✨
+## Hi everyone👋, I'm _Negin Banay Shahani_ ✨
 
 - 🔭 I’m currently working on ...
     - My Master's degree Proposal 🤔
